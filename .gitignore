@@ -15,6 +15,7 @@ env/
 # ChromaDB local storage
 chroma_db/
 chroma/
+chroma_store/
 
 # macOS
 .DS_Store
